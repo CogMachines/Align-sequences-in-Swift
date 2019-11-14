@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "eb27b7e8769bc278289ac553681f1341"
+build_time: [1572971223, 730997000]
+inputs:
+  "/Users/ioslab11/Desktop/ANJ/ANJ/ViewController.swift": [1572968359, 792079513]
+  "/Users/ioslab11/Desktop/ANJ/ANJ/AppDelegate.swift": [1572968359, 785113167]
